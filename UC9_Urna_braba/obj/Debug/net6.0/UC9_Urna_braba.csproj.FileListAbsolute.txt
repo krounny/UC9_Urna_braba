@@ -1,0 +1,15 @@
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\bin\Debug\net6.0\UC9_Urna_braba.exe
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\bin\Debug\net6.0\UC9_Urna_braba.deps.json
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\bin\Debug\net6.0\UC9_Urna_braba.runtimeconfig.json
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\bin\Debug\net6.0\UC9_Urna_braba.dll
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\bin\Debug\net6.0\ref\UC9_Urna_braba.dll
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\bin\Debug\net6.0\UC9_Urna_braba.pdb
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\UC9_Urna_braba.csproj.AssemblyReference.cache
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\UC9_Urna_braba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\UC9_Urna_braba.AssemblyInfoInputs.cache
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\UC9_Urna_braba.AssemblyInfo.cs
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\UC9_Urna_braba.csproj.CoreCompileInputs.cache
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\UC9_Urna_braba.dll
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\ref\UC9_Urna_braba.dll
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\UC9_Urna_braba.pdb
+C:\Users\luiz.ecrivera\source\repos\UC9_Urna_braba\UC9_Urna_braba\obj\Debug\net6.0\UC9_Urna_braba.genruntimeconfig.cache
